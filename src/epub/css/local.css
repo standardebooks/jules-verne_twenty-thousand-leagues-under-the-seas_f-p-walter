@@ -40,6 +40,10 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
+abbr.name{
+	white-space: nowrap;
+}
+
 .algebra{
 	font-style: italic;
 }
