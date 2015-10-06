@@ -21,14 +21,10 @@
 	margin: 1em 0;
 }
 
-*[epub|type~="se:letter.body"] p:first-child,
+*[epub|type~="se:letter.body"],
 .inscription p,
 table p{
 	text-indent: 0;
-}
-
-div.inscription{
-	margin: 1em;
 }
 
 h3 span:first-child{
