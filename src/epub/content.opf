@@ -3,7 +3,7 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/twenty-thousand-leagues-under-the-seas/f-p-walter</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2016-01-08T06:25:14Z</meta>
+		<meta property="dcterms:modified">2016-01-27T19:41:13Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -29,10 +29,10 @@
 		<dc:subject id="subject-2">Submarines (Ships) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Sea stories</dc:subject>
 		<dc:subject id="subject-4">Underwater exploration -- Fiction </dc:subject>
-		<meta property="meta-auth" refines="#subject-1">http://www.gutenberg.org/ebooks/2488</meta>
-		<meta property="meta-auth" refines="#subject-2">http://www.gutenberg.org/ebooks/2488</meta>
-		<meta property="meta-auth" refines="#subject-3">http://www.gutenberg.org/ebooks/2488</meta>
-		<meta property="meta-auth" refines="#subject-4">http://www.gutenberg.org/ebooks/2488</meta>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2488</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2488</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2488</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/2488</meta>
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">A tale of oceanic adventure in the famous submersible Nautilus.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
@@ -43,7 +43,7 @@
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
-		<dc:source>http://www.gutenberg.org/ebooks/2488</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/2488</dc:source>
 		<meta property="se:word-count">146164</meta>
 		<meta property="se:reading-ease.flesch">63.49</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Twenty_Thousand_Leagues_Under_the_Sea</meta>
