@@ -57,4 +57,5 @@ abbr.name{
 section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
 	display: block;
 	font-size: .75em;
+	font-weight: normal;
 }
