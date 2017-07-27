@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/jules-verne/twenty-thousand-leagues-under-the-seas/f-p-walter</dc:identifier>
 		<dc:date>2015-05-12T00:01:00Z</dc:date>
-		<meta property="dcterms:modified">2017-07-27T06:30:15Z</meta>
-		<meta property="se:revision-number">46</meta>
+		<meta property="dcterms:modified">2017-07-27T20:37:09Z</meta>
+		<meta property="se:revision-number">47</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,8 +38,8 @@
 		<dc:description id="description">A tale of oceanic adventure in the famous submersible Nautilus.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A seminal tale of science fiction, &lt;i&gt;Twenty Thousand Leagues Under the Seas&lt;/i&gt; is one of Jules Verne’s most famous novels.  It’s more than just a stirring adventure tale—it’s also one of Verne’s most scientifically-accurate and prescient works, predicting amazing advances in electricity, undersea travel, and technology.&lt;/p&gt;
-			&lt;p&gt;In it we follow Professor Aronnax, a French marine biologist, as he and his companions, Conseil and Ned Land, become prisoners (guests?) aboard the &lt;i&gt;Nautilus&lt;/i&gt;, captained by the mysterious and tortured Captain Nemo.  Their adventures, including encounters with island-locked natives, battles with giant sea squids, and undersea shark hunting, have become iconic parts of modern culture.&lt;/p&gt;
+			&lt;p&gt;A seminal tale of science fiction, &lt;i&gt;Twenty Thousand Leagues Under the Seas&lt;/i&gt; is one of Jules Verne’s most famous novels. It’s more than just a stirring adventure tale—it’s also one of Verne’s most scientifically-accurate and prescient works, predicting amazing advances in electricity, undersea travel, and technology.&lt;/p&gt;
+			&lt;p&gt;In it we follow Professor Aronnax, a French marine biologist, as he and his companions, Conseil and Ned Land, become prisoners (guests?) aboard the &lt;i&gt;Nautilus&lt;/i&gt;, captained by the mysterious and tortured Captain Nemo. Their adventures, including encounters with island-locked natives, battles with giant sea squids, and undersea shark hunting, have become iconic parts of modern culture.&lt;/p&gt;
 			&lt;p&gt;This translation was produced and dedicated to the public domain in 1991 by F. P. Walter, making it an extremely rare treasure: a high-quality modern translation free from any intellectual monopoly restrictions.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
