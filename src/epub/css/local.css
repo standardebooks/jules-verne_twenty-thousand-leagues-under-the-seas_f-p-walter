@@ -27,8 +27,9 @@ table p{
 	text-indent: 0;
 }
 
-h3 span:first-child{
+span[epub|type~="subtitle"]{
 	display: block;
+	font-weight: normal;
 }
 
 abbr.era{
