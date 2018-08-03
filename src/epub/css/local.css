@@ -1,27 +1,25 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-[epub|type~="z3998:letter"]{
-	margin: 1em;
-}
-
-[epub|type~="z3998:letter"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:valediction"]{
 	text-align: right;
 }
 
+header[epub|type~="se:letter.dateline"]{
+	text-align: left;
+	margin-bottom: 1em;
+}
+
+[epub|type~="z3998:salutation"] + p,
 [epub|type~="se:letter.dateline"] p{
 	text-indent: 0;
 }
 
-[epub|type~="se:letter.body"]{
-	margin: 1em 0;
+footer{
+	margin-top: 1em;
+	text-align: right
 }
 
-[epub|type~="se:letter.body"],
 .inscription p,
 table p{
 	text-indent: 0;
@@ -36,10 +34,6 @@ abbr.era{
 	font-variant: all-small-caps;
 }
 
-abbr.name{
-	white-space: nowrap;
-}
-
 .algebra{
 	font-style: italic;
 }
@@ -51,8 +45,6 @@ abbr.name{
 
 .signature{
 	font-variant: small-caps;
-	margin-top: 1em;
-	text-align: right;
 }
 
 section[epub|type~="halftitlepage"] span[epub|type~="subtitle"]{
