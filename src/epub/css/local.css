@@ -17,7 +17,7 @@ header[epub|type~="se:letter.dateline"]{
 
 footer{
 	margin-top: 1em;
-	text-align: right
+	text-align: right;
 }
 
 .inscription p,
