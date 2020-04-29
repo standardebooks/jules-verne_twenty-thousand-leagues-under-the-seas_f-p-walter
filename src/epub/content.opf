@@ -36,6 +36,7 @@
 		<dc:title id="fulltitle">Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World</dc:title>
 		<meta property="file-as" refines="#fulltitle">Twenty Thousand Leagues Under the Seas: An Underwater Tour of the World</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="se:alternate-title" refines="#title">20,000 Leagues Under the Seas</meta>
 		<dc:subject id="subject-1">Science fiction</dc:subject>
 		<dc:subject id="subject-2">Submarines (Ships) -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Sea stories</dc:subject>
