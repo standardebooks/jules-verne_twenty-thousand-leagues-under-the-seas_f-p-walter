@@ -34,6 +34,6 @@ abbr.era{
 	font-variant: small-caps;
 }
 
-.signature{
+[epub:type~="z3998:signature"]{
 	font-variant: small-caps;
 }
