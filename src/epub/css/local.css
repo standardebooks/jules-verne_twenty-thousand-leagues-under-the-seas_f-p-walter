@@ -6,7 +6,7 @@
 }
 
 header[epub|type~="se:letter.dateline"]{
-	text-align: left;
+	text-align: initial;
 	margin-bottom: 1em;
 }
 
