@@ -51,6 +51,9 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh2010117331</meta>
 		<meta property="se:subject">Science Fiction</meta>
+		<meta id="collection" property="belongs-to-collection">Voyages Extraordinaires</meta>
+		<meta property="collection-type" refines="#collection">series</meta>
+		<meta property="group-position" refines="#collection">6</meta>
 		<dc:description id="description">A tale of oceanic adventure in the famous submersible Nautilus.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A seminal tale of science fiction, &lt;i&gt;Twenty Thousand Leagues Under the Seas&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/jules-verne"&gt;Jules Verne’s&lt;/a&gt; most famous novels. It’s more than just a stirring adventure tale—it’s also one of Verne’s most scientifically-accurate and prescient works, predicting amazing advances in electricity, undersea travel, and technology.&lt;/p&gt;
